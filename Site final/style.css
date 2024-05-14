@@ -1,0 +1,401 @@
+h1 {
+	color: 	whitesmoke;
+	text-align: center;
+	font-size: 50px;
+}
+.case1 {
+	background-color: #122891;
+	width: 100%;
+	height: 900px;
+	text-orientation: center;
+	display: flex;
+  justify-content: center;
+  align-items: center;
+	}
+.case0 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto 
+	}
+h2 {
+	text-align: center;
+	font-size: 20px;
+	color: lightgray
+}
+h3 {
+	text-align: center;
+	background-color: none;
+	font-size: 20px;
+	color: lightgray;
+}
+h17 {
+	text-align: center;
+	background-color: none;
+	font-size: 20px;
+	color: lightgray
+}
+.case2 {
+	background-color: #122891;
+	width: 100%;
+	height: 450px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+.casedegauche {
+	background-color: #122891;
+	height: 450px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+.Aboutme {
+	width: 49%;
+	height: 42%;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+h5 {
+	font-size: 100%;
+	font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.Linkedin {
+	width: 49%;
+	height: 42%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	text-orientation: center;
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ski {
+	font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+a {
+	text-color : green;
+}
+.skills {
+	width: 100%;
+	height: 57%;
+	background-color: black;
+	color: white;
+}
+h6 {
+	font-size: 100%;
+	text-align: center;
+}
+h7 {
+	font-size: 100%;
+	text-align: center;
+}
+.hobbs {
+	font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.casededroite {
+	background-color: black;
+	height: 450px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+.picture {
+	width: 50%;
+	height: 100%;
+	background-color: black;
+	color: white;
+}
+#photo-id {
+	width: 100%;
+	height: 100%
+}
+.block-droite {
+	width: 48%;
+}
+.image2 {
+	height: 50%; 
+	background-color: black;
+}
+#photo-antiviral {
+	width: 100%;
+}
+.hobbies {
+	height: 50%; 
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.educati {
+	background-color: #122891;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 40px;
+}
+.case3 {
+	background-color: #122891;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	padding: 1px;
+	grid-gap: 2px;
+}
+.kedge {
+	width: 100%;
+	height: auto;
+	margin-bottom: 10%;
+}
+.kedge1 {
+	width: 100%;
+	height: auto;
+	margin-bottom: 10%;
+}
+.cours1 {
+	text-orientation: center;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.Malaga {
+	width: 100%;
+	height: auto;
+	aspect-ratio: auto 11 / 10;
+	margin-bottom: 10%;
+}
+.cours2 {
+	text-orientation: center;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.cours3 {
+	text-orientation: center;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.wagonpic {
+	width: 100%;
+	height: 100%;
+	margin-bottom: 10%;
+}
+.cours4 {
+	text-orientation: center;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	color: white;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+h13 {
+	color: whitesmoke;
+	font-size: 40px;
+}
+.experi{
+	background-color: #122891;
+	width: 100%;
+	height: 100%x;
+	text-align: center;
+}
+.case4 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+  background-color: #122891;
+}
+.swisslife {
+	width: 100%;
+	height: auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: white;
+  margin-bottom: 10%;
+}
+.exp12 {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 5px;
+	grid-gap: 20px;
+	background-color: #122891;
+}
+.experience1 {
+	text-orientation: center;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	display: block !important;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: white;
+}
+.lfl {
+	width: 70%;
+	height: 70%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+}
+.experience2 {
+	text-orientation: center;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	display: block !important;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: white;
+}
+.exp34 {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 5px;
+	grid-gap: 20px;
+}
+.experience3 {
+	text-orientation: center;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	display: block !important;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  display: flex;
+	justify-content: center;
+	margin-bottom: 10%;
+	color: white;
+}
+.mosh {
+	width: 100%;
+	height: auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: white;
+  margin-bottom: 10%;
+}
+.tabac {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	margin-bottom: 10%;
+}
+.experience4 {
+	text-orientation: center;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	text-align: center;
+	display: block !important;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: white;
+}
+.exp56 {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 5px;
+	grid-gap: 20px;
+}
+.experience5 {
+	text-orientation: center;
+	width: 50%;
+	height: 70%;
+	text-align: center;
+	text-align: center;
+	display: block !important;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: white;
+}
+.antiviral {
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	margin-bottom: 10%;
+}
+.experience6 {
+	text-orientation: center;
+	width: 50%;
+	height: 70%;
+	text-align: center;
+	text-align: center;
+	display: block !important;
+	border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: white;
+ }
+ .telethon {
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	margin-bottom: 10%;
+}
+.cont {
+	display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+h19 {
+	background-color: #122891;
+	color: white;
+	text-align: center;
+} 
